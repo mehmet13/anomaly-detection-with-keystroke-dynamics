@@ -1,6 +1,6 @@
 # Anomaly detection with keystroke dynamics using keras
 
-python --version  => Python 3.6.8
+Python 3.6.8
 
 
 requirements:
