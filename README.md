@@ -1,7 +1,8 @@
 # Anomaly detection with keystroke dynamics using keras
 
-requirements.txt:
+python --version  => Python 3.6.8
 
+requirements.txt:
     • keras=2.1.5
     • tensorflow=1.5
     • numpy=1.16.4
