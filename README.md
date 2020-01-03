@@ -2,7 +2,9 @@
 
 python --version  => Python 3.6.8
 
-requirements.txt:
+
+requirements:
+
     • keras=2.1.5
     • tensorflow=1.5
     • numpy=1.16.4
